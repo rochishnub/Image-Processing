@@ -2,9 +2,9 @@
 Image processing application in Python. Tesing out Median filter and 8-bit Image Plane Slicing. 
 
 ### Files Uploaded
-1. Images directory containing example images
-2. 8-Bit-plane.jpg images to test program
-3. Main img_process.ipynb notebook that contains the code
+1. *Images* directory containing example images
+2. *8-bit-slice.jpg* images to test program
+3. Main *img_process.ipynb* notebook that contains the code
 
 ### 8-Bit Plane Slicing
 Bit plane slicing highlights the contribution made to total image appearance by specific bits. Suppose that each pixel in an image is represented by 8 bits. Imagine that the image is composed of eight 1-bit planes, ranging from bit-plane 0 for the least significant bit to bitplane 7 for the most significant bit. Then extracting one of these planes from the 8-bit image is called Bit Plane Slicing.
